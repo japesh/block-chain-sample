@@ -1,0 +1,20 @@
+{
+  "name": "blockchainsample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "babel-node index.js"
+  },
+  "keywords": [
+    "BlockChainSample"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-preset-env": "^1.6.1",
+    "crypto-js": "^3.1.9-1"
+  },
+  "devDependencies": {}
+}
